@@ -1,0 +1,33 @@
+#container {
+	padding: 20px;
+	width: 300px;
+	background-color: black;
+	margin: 0 auto;
+	border-radius: 5px;
+
+
+
+}
+
+.addList {
+	background-color: black;
+	height: 100px;
+}
+
+
+#list {
+	background-color: white;
+}
+
+#list ul li {
+	color: black;
+	list-style: none;
+}
+
+/*#list ul li:hover {
+	cursor: pointer;
+}*/
+
+.strike {
+	text-decoration: line-through;
+}
